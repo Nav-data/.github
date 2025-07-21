@@ -1,12 +1,34 @@
-## Hi there 👋
+# 🙋‍♀️ Welcome to Nav-data!
 
-<!--
+Hi there! We're **Nav-data**, a group of aviation enthusiasts who are passionate about writing data converters
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🌈 Contribution Guidelines
+
+We love contributors! Here’s how you can get involved:
+
+- Send an email to [epa6643@gmail.com](mailto:epa6643@gmail.com)
+- Make sure to include **what you have** and **what you can provide**
+
+---
+
+## ✈️ Aircraft Included
+
+- [iniBuilds](https://inibuilds.com/)
+- [PMDG](https://pmdg.com/)
+- [Fenix](https://fenixsim.com/)
+- [TFDI](https://tfdidesign.com/)
+- [X-Plane](https://www.x-plane.com/)
+
+---
+
+## 🧩 Tabel
+
+| **Flight Simulators** | **Aircraft Developers** | **Data Standards** | **From**   | **To**        |
+|:----------------------|:------------------------|:-------------------|:-----------|:--------------|
+| MSFS                  | iniBuilds               | ARINC 424          | X-Plane    | iniBuilds     |
+| MSFS                  | PMDG                    | ARINC 424          | X-Plane    | iniBuilds     |
+| MSFS                  | Fenix Simulations       | Custom             | Charts     | Fenix         |
+| MSFS                  | TFDI Design             | Custom             | Fenix      | TFDI          |
+| X-Plane               | TFDI Design             | Custom             | Charts     | X-Plane       |
