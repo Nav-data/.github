@@ -31,4 +31,4 @@ We love contributors! Here’s how you can get involved:
 | MSFS                  | PMDG                    | ARINC 424          | X-Plane    | iniBuilds     |
 | MSFS                  | Fenix Simulations       | Custom             | Charts     | Fenix         |
 | MSFS                  | TFDI Design             | Custom             | Fenix      | TFDI          |
-| X-Plane               | TFDI Design             | Custom             | Charts     | X-Plane       |
+| X-Plane               | X-Plane                 | Custom             | Charts     | X-Plane       |
