@@ -40,6 +40,7 @@ We currently support data conversion for aircraft from these renowned developers
 - **[PMDG](https://pmdg.com/)** - Professional flight simulation aircraft
 - **[Fenix Simulations](https://fenixsim.com/)** - Advanced Airbus simulations
 - **[TFDI Design](https://tfdidesign.com/)** - Detailed regional aircraft
+- **[iFly](https://www.ifly.com/)** - Professional aircraft simulations
 - **[X-Plane](https://www.x-plane.com/)** - Default and third-party aircraft
 
 ---
@@ -52,6 +53,7 @@ We currently support data conversion for aircraft from these renowned developers
 | MSFS                 | PMDG                   | ARINC 424         | X-Plane    | iniBuilds     |
 | MSFS                 | Fenix Simulations      | Custom            | Charts     | Fenix         |
 | MSFS                 | TFDI Design            | Custom            | Fenix      | TFDI          |
+| MSFS                 | iFly                   | Custom            | Fenix      | iFly          |
 | X-Plane              | X-Plane                | Custom            | Charts     | X-Plane       |
 
 ### Data Standards Supported
