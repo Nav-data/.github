@@ -55,6 +55,7 @@ We currently support data conversion for aircraft from these renowned developers
 | MSFS                 | TFDI Design            | Custom            | Fenix      | TFDI          |
 | MSFS                 | iFly                   | Custom            | Fenix      | iFly          |
 | X-Plane              | X-Plane                | Custom            | Charts     | X-Plane       |
+| PFPX                 | PFPX                   | Custom            | Custom     | PFPX          |
 
 ### Data Standards Supported
 - **ARINC 424** - Industry standard for navigation data
