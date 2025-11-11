@@ -51,10 +51,10 @@ We currently support data conversion for aircraft from these renowned developers
 |:---------------------|:-----------------------|:------------------|:-----------|:--------------|
 | MSFS                 | iniBuilds              | ARINC 424         | X-Plane    | iniBuilds     |
 | MSFS                 | PMDG                   | ARINC 424         | X-Plane    | iniBuilds     |
-| MSFS                 | Fenix Simulations      | Custom            | Charts     | Fenix         |
+| MSFS                 | Fenix Simulations      | Custom            | Custom     | Fenix         |
 | MSFS                 | TFDI Design            | Custom            | Fenix      | TFDI          |
 | MSFS                 | iFly                   | Custom            | Fenix      | iFly          |
-| X-Plane              | X-Plane                | Custom            | Charts     | X-Plane       |
+| X-Plane              | X-Plane                | Custom            | Custom     | X-Plane       |
 | PFPX                 | PFPX                   | Custom            | Custom     | PFPX          |
 
 ### Data Standards Supported
