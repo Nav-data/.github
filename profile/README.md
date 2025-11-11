@@ -50,7 +50,7 @@ We currently support data conversion for aircraft from these renowned developers
 | **Flight Simulator** | **Aircraft Developer** | **Data Standard** | **Source** | **Target**    |
 |:---------------------|:-----------------------|:------------------|:-----------|:--------------|
 | MSFS                 | iniBuilds              | ARINC 424         | X-Plane    | iniBuilds     |
-| MSFS                 | PMDG                   | ARINC 424         | X-Plane    | iniBuilds     |
+| MSFS                 | PMDG                   | ARINC 424         | X-Plane    | PMDG          |
 | MSFS                 | Fenix Simulations      | Custom            | Custom     | Fenix         |
 | MSFS                 | TFDI Design            | Custom            | Fenix      | TFDI          |
 | MSFS                 | iFly                   | Custom            | Fenix      | iFly          |
